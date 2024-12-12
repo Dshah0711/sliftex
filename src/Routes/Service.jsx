@@ -24,7 +24,7 @@ const Service = () => {
     <div>
      
       <DynamicTable />
-      <Chatbot />
+      
       <Footer />
 
     </div>

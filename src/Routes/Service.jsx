@@ -2,7 +2,7 @@
 import axios from 'axios'
 import React, { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import Chatbot from '../components_service/chatbot'
+
 import DynamicTable from '../components_service/DynamicTable'
 
 import Footer from '../components/Footer'
